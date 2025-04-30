@@ -1,7 +1,3 @@
-Here's a simple and clear **README** for your Logistic Regression classification task using the Breast Cancer dataset:
-
----
-
 # 🧠 Breast Cancer Classification using Logistic Regression
 
 ## 📌 Objective
